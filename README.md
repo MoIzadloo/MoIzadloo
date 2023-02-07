@@ -17,8 +17,6 @@
   <a href="#"><img alt="Blender" src="https://img.shields.io/badge/Blender-FF6F00.svg?logo=blender&logoColor=white"/></a>
   <a href="#"><img alt="Blender" src="https://img.shields.io/badge/Docker-0db7ed.svg?logo=docker&logoColor=white"/></a>
 <p/>
-<h2>🎵 Listen with me</h2>
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=uyqz81o5dn48ei82qwb7pzspy&cover_image=true&theme=natemoo-re&bar_color=61dafb&bar_color_cover=false"/>
 <h2>👨‍💻 Me </h2>
 <p>
   <ul align="left" style="width:46%;">
