@@ -24,7 +24,6 @@
     <li>🚀  Web Developer</li>
     <li>📦  3D Modeler</li>
     <li>🎨  Creative</li>
-    <li>💼  Freelancer</li>
   </ul>
 </p>
 <h2 align="left">🔥 Streak stats</h2>
